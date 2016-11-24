@@ -1,6 +1,10 @@
 # Edit Plist File plugin
 by Haythem OUEDERNI - <a href="https://github.com/haythemOUE">@haythemOUE</a>
 
+# Platforms
+
+iOS only
+
 # 1 - Description
 A cordova "plugin" that helps you indicate the modifications on the iOS's *-info.plist file.<br/>
 So it avoids you to directly edit the *-info.plist file.<br/>
