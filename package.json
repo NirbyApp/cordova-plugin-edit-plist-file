@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-edit-plist-file",
+  "version": "0.0.1",
+  "description": "Plugin allowing to edit *-info.plist file",
+  "cordova": {
+    "id": "cordova-plugin-edit-plist-file",
+    "platforms": [
+      "ios"
+    ]
+  },
+
+  "keywords": [
+    "cordova",
+    "whitelist",
+    "ios9",
+    "ecosystem:cordova",
+    "cordova-ios",
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "license": "Apache 2.0"
+}
