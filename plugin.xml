@@ -7,15 +7,21 @@
     <name>Edit Plist file</name>
     
     <description>
-        A cordova "plugin" that helps you indicate the modifications on the iOS's *-info.plist file.<br/>
-        So it avoids you to directly edit the *-info.plist file.<br/>
-        For example it is used to whitelist some schemes for ios9.<br/>
+        A cordova "plugin" that helps you indicate the modifications on the iOS's *-info.plist file.
+        So it avoids you to directly edit the *-info.plist file.
+        For example it is used to whitelist some schemes for ios9.
         This plugin was initially created to avoid iOS 9 problems that prevent opening other apps from your own app because some used plugins aren't updated to take into consideration the new specification for iOS 9.
     </description>
+
+    <author>Haythem OUEDERNI - haythem@nirbyapp.com </author>
+
+    <keywords>cordova,whitelist,ios9,ecosystem:cordova,ordova-ios</keywords>
     
     <license>MIT</license>
     
     <engines>
+        <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
+        <!-- Requires > 3.5.0 because of the custom Framework tag for Android [CB-6698] -->
         <engine name="cordova" version=">=3.5.0" />
     </engines>
     
