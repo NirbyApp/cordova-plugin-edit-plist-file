@@ -2,13 +2,17 @@
   "name": "cordova-plugin-edit-plist-file",
   "version": "0.0.1",
   "description": "Plugin allowing to edit *-info.plist file",
+  "author": "Haythem OUEDERNI <haythem@nirbyapp.com>",
   "cordova": {
     "id": "cordova-plugin-edit-plist-file",
     "platforms": [
       "ios"
     ]
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirbyApp/cordova-plugin-edit-plist-file.git"
+  },
   "keywords": [
     "cordova",
     "whitelist",
@@ -22,5 +26,5 @@
       "version": ">=3.5.0"
     }
   ],
-  "license": "Apache 2.0"
+  "license": "MIT"
 }
