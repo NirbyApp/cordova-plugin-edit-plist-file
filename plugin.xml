@@ -39,6 +39,8 @@
                 <string>itms-apps</string>
                 <string>youtube</string>
                 <string>soundcloud</string>
+                <string>fb-messenger</string>
+                <string>instagram</string>
             </array>
         </config-file>
         

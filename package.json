@@ -1,30 +1,28 @@
 {
-  "name": "cordova-plugin-edit-plist-file",
-  "version": "0.0.2",
-  "description": "Plugin allowing to edit *-info.plist file",
-  "author": "Haythem OUEDERNI <haythem@nirbyapp.com>",
-  "cordova": {
-    "id": "cordova-plugin-edit-plist-file",
-    "platforms": [
-      "ios"
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NirbyApp/cordova-plugin-edit-plist-file.git"
-  },
-  "keywords": [
-    "cordova",
-    "whitelist",
-    "ios9",
-    "ecosystem:cordova",
-    "cordova-ios"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.5.0"
-    }
-  ],
-  "license": "MIT"
+    "name": "cordova-plugin-edit-plist-file",
+    "version": "0.0.3",
+    "description": "Plugin allowing to edit *-info.plist file",
+    "author": "Haythem OUEDERNI <haythem@nirbyapp.com>",
+    "cordova": {
+        "id": "cordova-plugin-edit-plist-file",
+        "platforms": [
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NirbyApp/cordova-plugin-edit-plist-file.git"
+    },
+    "keywords": [
+        "cordova",
+        "whitelist",
+        "ios9",
+        "ecosystem:cordova",
+        "cordova-ios"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.5.0"
+    }],
+    "license": "MIT"
 }
