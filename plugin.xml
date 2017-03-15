@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-edit-plist-file"
-    version="0.0.1">
+    version="0.0.3">
     
     <name>Edit Plist file</name>
     
